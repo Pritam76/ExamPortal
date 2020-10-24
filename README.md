@@ -1,13 +1,13 @@
 # ExamPortal
-A full-stack web application portal that can help schools or universities to conduct examination for their students.
+A full-stack web application that can help schools or universities to conduct examinations for their students.
 
 **Students**
-* Students need to register in the portal with their uniquie roll number, email and password so as to write the examination.  
+* Students need to register in the portal with their uniquie roll number, e-mail id and password so as to write the examination.  
 * Students on logging in will be redirected to their dashboard page where they can do following tasks:
   1. Download question paper set by the university (admin)  
-  2. Upload their answer sheet which gets saved in database.
+  2. Upload their answer sheet.
 * Students have the liberty to change their password once they login.  
-* Students can submit their answer sheet any number of times, but only their last response will be considered for evaluation.
+* Students can submit their answer sheet any number of times, but their last response will be considered for evaluation.
 
 **Admins**
 * Admin needs to login with proper credentials.  
@@ -17,7 +17,7 @@ A full-stack web application portal that can help schools or universities to con
 
 
 **Technologies Used**  
-*JSP and servelet, HTML, CSS (Bootstrap 4), JavaScript (Vanilla), h2 database* 
+*JSP and Servlet, HTML, CSS (Bootstrap 4), JavaScript (Vanilla), h2 database* 
 
 
 **Starting up with a demo**  
