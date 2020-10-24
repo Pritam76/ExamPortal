@@ -26,6 +26,7 @@ A full-stack web application portal that can help schools or universities to con
 * Question Paper Codes: qp1.docx, qp2.docx, qp3.docx  
 * Admin credentials:  username:admin, password:1234  
 
+###The QPaper folder conatins four dummy question papers so that they can be downloaded by targeted students  
+###The ASheet folder contains two dummy answer scripts uploaded by students 10817000 and 106117000
 
-
-*Note: More about initializations can be found in src/Database/HandlingInitialization.java (or) src/PeekDatabase/Students.java*
+*Note: More about initializations can be found in ExamPortalFinal/src/Database/HandlingInitialization.java (or) ExamPortalFinal/src/PeekDatabase/Students.java*
