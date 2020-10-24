@@ -17,7 +17,7 @@ A full-stack web application portal that can help schools or universities to con
 
 
 **Technolgies Used**  
-*JSP and servelet, HTML, CSS (Bootstrap 4), JavaScript (Vanilla)* 
+*JSP and servelet, HTML, CSS (Bootstrap 4), JavaScript (Vanilla), h2 database* 
 
 
 **Starting up with a demo**  
