@@ -16,7 +16,7 @@ A full-stack web application portal that can help schools or universities to con
 * They can download attendance sheet, i.e., roll number of students who have succesfully submitted their question paper.  
 
 
-**Technolgies Used**  
+**Technologies Used**  
 *JSP and servelet, HTML, CSS (Bootstrap 4), JavaScript (Vanilla), h2 database* 
 
 
